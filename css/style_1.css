@@ -1,0 +1,29 @@
+
+#div_1{
+	font-size: 50px;
+	font-weight:bold;
+	margin:10px 0 30px 10px ;
+}
+
+#div_2{
+	font-size: 25px;
+	font-weight: bold;
+	margin:10px 0 15px 10px ;
+}
+#div_3{
+	margin:10px 0 15px 10px ;
+	
+}
+
+#div_4{
+	margin:10px 0 15px 10px ;
+}
+
+.span_1{
+	font-weight: bold;
+	display: block;
+}
+
+#div_3_1{
+	padding-bottom: 6px;
+}

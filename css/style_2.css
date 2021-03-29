@@ -1,0 +1,56 @@
+ /**这个也能另DIV占据全部纵列，主要是设置html和body的高，
+    此时 DIV 的height:100%生效
+  * html,body{
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+**/
+#div_1{
+	font-size: 50px;
+	font-weight:bold;
+	color: white;
+	text-align: center;
+	width: 29%;
+	float: left;
+	height: 100vh;
+	background-color:cornflowerblue;
+}
+
+/**
+ * 嵌套一个DIV，防止父级乱动
+ */
+#div_1_1{  
+	padding-top: 50px;
+}
+
+#bigDiv{
+	
+	float: right;
+	width:69%;
+}
+
+#div_2{
+	font-size: 25px;
+	font-weight: bold;
+	margin:10px 0 15px 10px ;
+	
+}
+#div_3{
+	margin:10px 0 15px 10px ;
+	
+}
+
+#div_4{
+	margin:10px 0 15px 10px ;
+	
+}
+
+.span_1{
+	font-weight: bold;
+	display: block;
+}
+
+#div_3_1{
+	padding-bottom: 6px;
+}
